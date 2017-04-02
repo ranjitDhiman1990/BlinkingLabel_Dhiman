@@ -10,7 +10,7 @@
 		13998636DBA4BA2AB3768546A9E74DBB /* BlinkingLabel_Dhiman-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 635FBF35147EFD5D617EE0443E971C98 /* BlinkingLabel_Dhiman-dummy.m */; };
 		2E9DFAAEDEE798F1C6525407C48504D2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
 		41916667B9615DAC30B490DAC9C40D28 /* Pods-BlinkingLabel_Dhiman_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4CA2D02C7948291037BCDADBB7FD9A0F /* Pods-BlinkingLabel_Dhiman_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		56139FB6DF0979563CE291CCF9A20B5E /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7056A1B470A152AA63F1431FE493E45 /* ReplaceMe.swift */; };
+		6A283AE11E90C3560012941C /* BlinkingLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6A283AE01E90C3560012941C /* BlinkingLabel.swift */; };
 		8D615BF1007D6E5A958D5D53D910F98B /* BlinkingLabel_Dhiman-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 237F779EC42C8F9467CB8E78577A1E15 /* BlinkingLabel_Dhiman-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A7E96F5CA1852AD5EE917FA15CA4D3A6 /* Pods-BlinkingLabel_Dhiman_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 88DD4C4AF2A70A326021CF4D5B97C9D8 /* Pods-BlinkingLabel_Dhiman_Example-dummy.m */; };
 		B7FB84728B0B874E98704671E2E0BAD5 /* Pods-BlinkingLabel_Dhiman_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DB6A9A03048AA3696CA1803BEFA6B89E /* Pods-BlinkingLabel_Dhiman_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -41,6 +41,7 @@
 		571F73FF591128522EE33BC6648514FC /* BlinkingLabel_Dhiman.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = BlinkingLabel_Dhiman.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		635FBF35147EFD5D617EE0443E971C98 /* BlinkingLabel_Dhiman-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "BlinkingLabel_Dhiman-dummy.m"; sourceTree = "<group>"; };
 		685DB91B18E83C49866ED67F03A0E7A8 /* Pods-BlinkingLabel_Dhiman_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BlinkingLabel_Dhiman_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		6A283AE01E90C3560012941C /* BlinkingLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlinkingLabel.swift; sourceTree = "<group>"; };
 		6B401CBF6779D1B2B1B41A98DD3A70B1 /* BlinkingLabel_Dhiman.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = BlinkingLabel_Dhiman.modulemap; sourceTree = "<group>"; };
 		78CD35A5C75EBE57F0108B800AC9F4BB /* Pods-BlinkingLabel_Dhiman_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BlinkingLabel_Dhiman_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		806D2B699D664C1F9FF9D9CEDA23E731 /* BlinkingLabel_Dhiman-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "BlinkingLabel_Dhiman-prefix.pch"; sourceTree = "<group>"; };
@@ -50,7 +51,6 @@
 		8A8BA35AF234ADBF0A3F6B4CBD45ECA0 /* Pods-BlinkingLabel_Dhiman_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-BlinkingLabel_Dhiman_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9A43C4E087FD990C6F6BB94B88CEE892 /* Pods-BlinkingLabel_Dhiman_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-BlinkingLabel_Dhiman_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		B7056A1B470A152AA63F1431FE493E45 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
 		BE5A439287EFEF977779559161A315EB /* BlinkingLabel_Dhiman.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BlinkingLabel_Dhiman.xcconfig; sourceTree = "<group>"; };
 		C3AB3431A5F5450E204142F7FC813575 /* Pods-BlinkingLabel_Dhiman_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-BlinkingLabel_Dhiman_Example-frameworks.sh"; sourceTree = "<group>"; };
 		CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -103,7 +103,7 @@
 		1EE6719CE2515BFB08BDACADD9D9081C /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				B7056A1B470A152AA63F1431FE493E45 /* ReplaceMe.swift */,
+				6A283AE01E90C3560012941C /* BlinkingLabel.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -337,8 +337,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6A283AE11E90C3560012941C /* BlinkingLabel.swift in Sources */,
 				13998636DBA4BA2AB3768546A9E74DBB /* BlinkingLabel_Dhiman-dummy.m in Sources */,
-				56139FB6DF0979563CE291CCF9A20B5E /* ReplaceMe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -445,6 +445,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BE5A439287EFEF977779559161A315EB /* BlinkingLabel_Dhiman.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
@@ -474,6 +475,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BE5A439287EFEF977779559161A315EB /* BlinkingLabel_Dhiman.xcconfig */;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
