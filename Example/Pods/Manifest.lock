@@ -1,0 +1,16 @@
+PODS:
+  - BlinkingLabel_Dhiman (0.1.0)
+
+DEPENDENCIES:
+  - BlinkingLabel_Dhiman (from `../`)
+
+EXTERNAL SOURCES:
+  BlinkingLabel_Dhiman:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BlinkingLabel_Dhiman: dc981d20dfeab86f4ef22fee5b26c7a5599297d7
+
+PODFILE CHECKSUM: f120834f7f6756897d9fd5e0c2920808ebbb286e
+
+COCOAPODS: 1.0.1

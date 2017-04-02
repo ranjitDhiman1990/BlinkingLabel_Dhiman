@@ -1,0 +1,6 @@
+framework module Pods_BlinkingLabel_Dhiman_Tests {
+  umbrella header "Pods-BlinkingLabel_Dhiman_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module BlinkingLabel_Dhiman {
+  umbrella header "BlinkingLabel_Dhiman-umbrella.h"
+
+  export *
+  module * { export * }
+}

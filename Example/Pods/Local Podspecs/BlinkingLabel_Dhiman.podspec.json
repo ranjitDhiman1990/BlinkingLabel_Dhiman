@@ -1,0 +1,22 @@
+{
+  "name": "BlinkingLabel_Dhiman",
+  "version": "0.1.0",
+  "summary": "A short description of BlinkingLabel_Dhiman.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ranjitDhiman1990/BlinkingLabel_Dhiman",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ranjitDhiman1990": "dhimanranjit197@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ranjitDhiman1990/BlinkingLabel_Dhiman.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BlinkingLabel_Dhiman/Classes/**/*"
+}
